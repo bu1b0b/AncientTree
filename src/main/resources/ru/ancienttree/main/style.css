@@ -1,0 +1,79 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#fullperson {
+	-fx-background-color: #253441;
+	-fx-background-radius: 5.0;
+	-fx-border-color: #567696; 
+	-fx-border-width: 1.0;  
+	-fx-border-radius: 5.0;
+	
+	-fx-opacity: 0.9;
+	
+	-fx-pref-height: 60;
+	-fx-pref-width: 120;
+	-fx-min-height: 60;
+	-fx-min-width: 120;
+	-fx-max-height: 60;
+	-fx-max-width: 120;
+}
+
+#personMainPane {
+	-fx-background-color: #394b60;
+
+	-fx-min-height: 30000.0;
+	-fx-min-width: 30000.0;
+}
+
+#ancientConnector {
+	-fx-fill: #ffa500;
+	-fx-stroke: #d9d9d9;
+	-fx-stroke-type: INSIDE;
+}
+
+#connectionLine{
+	-fx-stroke-width: 4;
+	-fx-stroke: #ffa500;
+}
+
+#nameLabel {
+	-fx-text-fill: #b1c9e0;
+	-fx-wrap-text: false;
+}
+
+#outputCircle {
+	-fx-fill: #ffa500; 
+	-fx-stroke: #d9d9d9;
+	-fx-stroke-type: INSIDE;
+}
+
+#inputCircle {
+	-fx-fill: #ffa500; 
+	-fx-stroke: #d9d9d9;
+	-fx-stroke-type: INSIDE;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
