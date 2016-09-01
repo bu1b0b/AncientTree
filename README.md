@@ -2,4 +2,4 @@
 
 Desktop App for building family tree.
 
-Как-то так
+Запускать с параметром Goals: jfx:native
